@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @imgin
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 mitmproxy to change response
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning 
 java
-- 💞️ I’m looking to collaborate on ...
-some project translation from chinese to english
-- 📫 How to reach me ...
-telegram @Gin507
+- 💞️ I’m looking to collaborate on 
+any project that needs translation from chinese to english
+- 📫 How to reach me 
+- @imgin on bilibili
 
 <!---
 imgin/imgin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
