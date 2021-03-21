@@ -5,8 +5,7 @@ mitmproxy to change response
 java
 - 💞️ I’m looking to collaborate on 
 any project that needs translation from chinese to english
-- 📫 How to reach me 
-- @imgin on bilibili
+- 📫 How to reach me ...- @imgin on bilibili
 
 <!---
 imgin/imgin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
